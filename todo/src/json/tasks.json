@@ -1,0 +1,29 @@
+{
+    "tasks": [
+      {
+        "name": "Создать задачу",
+        "status": "Done",
+        "priority": "high"
+      },
+      {
+        "name": "Программировать каждый день",
+        "status": "To do",
+        "priority": "high"
+      },
+      {
+        "name": "Зайти к другу",
+        "status": "Done",
+        "priority": "low"
+      },
+      {
+        "name": "Пойти домой",
+        "status": "To do",
+        "priority": "high"
+      },
+      {
+        "name": "Приготовить обед",
+        "status": "To do",
+        "priority": "high"
+      }
+    ]
+  }

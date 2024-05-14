@@ -1,0 +1,21 @@
+{
+  "compilerOptions": {
+    "target": "ES6",
+    "module": "ESNext",                                
+    "rootDir": "src",                                  
+    "moduleResolution": "node10",                     
+    "baseUrl": "src",
+    "outDir": "./build",                
+    "esModuleInterop": true,                            
+    "forceConsistentCasingInFileNames": true,  
+    "strict": true,                                  
+    "skipLibCheck": true,
+    "resolveJsonModule": true,                         
+  },
+  "include": [
+    "src/**/*", 
+    "src/module/main.ts",
+    "json/**/*.json"
+  ],
+  "exclude": ["node_modules"]
+}

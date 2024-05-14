@@ -1,0 +1,24 @@
+{
+  "name": "todo",
+  "version": "1.0.0",
+  "description": "add your doings",
+  "main": "./build/main.js",
+  "scripts": {
+    "start": "parcel index.html",
+    "build": "npx tsc"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ivalera/todo-ts.git"
+  },
+  "author": "ivalera",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ivalera/todo-ts/issues"
+  },
+  "homepage": "https://github.com/ivalera/todo-ts#readme",
+  "devDependencies": {
+    "parcel": "^2.12.0",
+    "typescript": "^5.4.5"
+  }
+}
